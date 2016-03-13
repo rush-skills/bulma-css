@@ -34,8 +34,11 @@ or for minified
 ## TODO
 
 - Add templates for bulma
-- Add basic helpers and decorators
+- Add basic helpers and decorators, like present for [Bootstrap](https://github.com/seyhunak/twitter-bootstrap-rails)
 - Add a simple form wrapper
+- Add SASS support
+- Add a command line generator based installation
+- Configure a way to auto build for new versions
 
 ## Development
 
@@ -46,7 +49,6 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 ## Contributing
 
 Bug reports and pull requests are welcome on GitHub at https://github.com/rush-skills/bulma-rails. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
-
 
 ## License
 
