@@ -9,7 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Ankur Singh"]
   spec.email         = ["ankur13019@iiitd.ac.in"]
 
-  spec.summary       = "Ruby gem to integrate bulma css to the rails asset pipeline"
+  spec.summary       = "Ruby gem to integrate bulma css to rails"
+  spec.description   = "Adds bulma.css to the rails asset pipeline"
   spec.homepage      = "https://github.com/rush-skills/bulma-rails"
   spec.license       = "MIT"
 
@@ -24,11 +25,11 @@ Gem::Specification.new do |spec|
   spec.files         = `git ls-files -z`.split("\x0").reject { |f| f.match(%r{^(test|spec|features)/}) }
   spec.require_paths = ["lib"]
 
-  spec.add_dependency         'railties',   '>= 3.1'
+  spec.add_dependency         'railties',   '~> 3.1'
 
   spec.add_development_dependency "bundler", "~> 1.11"
   spec.add_development_dependency "rake", "~> 10.0"
-  spec.add_development_dependency 'rails', '>= 3.1'
+  spec.add_development_dependency 'rails', '~> 3.1'
 
   spec.post_install_message = "Thank you for installation bulma-rails. \n\n" \
   "**********************************************\n\n" \
