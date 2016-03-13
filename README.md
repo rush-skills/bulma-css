@@ -25,11 +25,6 @@ In your `application.css` file, add:
 ```
 *= require bulma
 ```
-or for minified
-
-```
-*= require bulma.min
-```
 
 ## TODO
 

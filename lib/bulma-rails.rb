@@ -2,6 +2,6 @@ require "bulma/rails/version"
 
 module Bulma
   module Rails
-    # Your code goes here...
+    require 'bulma/rails/engine' if defined?(Rails)
   end
 end
