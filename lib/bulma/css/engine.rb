@@ -1,5 +1,5 @@
 module Bulma
-  module Rails
+  module Css
     class Engine < ::Rails::Engine
     end
   end

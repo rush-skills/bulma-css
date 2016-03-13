@@ -1,4 +1,4 @@
-# Bulma::Rails
+# BulmaCSS Gem
 
 Ruby gem to integrate bulma css to the rails asset pipeline.
 
@@ -7,7 +7,7 @@ Ruby gem to integrate bulma css to the rails asset pipeline.
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'bulma-rails'
+gem 'bulma-css'
 ```
 
 And then execute:
@@ -16,7 +16,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install bulma-rails
+    $ gem install bulma-css
 
 ## Usage
 
@@ -43,7 +43,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/rush-skills/bulma-rails. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+Bug reports and pull requests are welcome on GitHub at https://github.com/rush-skills/bulma-css. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
 
 ## License
 

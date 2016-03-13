@@ -1,5 +1,5 @@
 module Bulma
-  module Rails
+  module Css
     VERSION = "0.0.16"
   end
 end
